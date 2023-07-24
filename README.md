@@ -1,2 +1,19 @@
-# 45Days-ArshGoyal-Challenge
-This is the 45 days Arsh goyal challenge , where I will do the DSA problem on a daily basis for continous 45 to 60 days with a single target of cracking the internship/job .
+
+# 45 days challenge
+
+Collection of projects get done over the years of graduation .
+ 
+
+
+## Author
+
+- [@dash-09](https://www.github.com/dash-09)
+
+
+## About
+
+- Collection of mini project 
+- HTML,CSS, JS are used .
+- Fun and Annoying for kids
+- More project are coming.
+
