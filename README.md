@@ -1,7 +1,10 @@
 
 # 45 days challenge
 
-Collection of projects get done over the years of graduation .
+- This is the 45 days Arsh goyal challenge
+- Solve DSA problem on a daily basis for continous 45 to 60 days
+- single target to cracking the internship/job .
+- Java and Data Structure are used.
  
 
 
@@ -12,8 +15,10 @@ Collection of projects get done over the years of graduation .
 
 ## About
 
-- Collection of mini project 
-- HTML,CSS, JS are used .
-- Fun and Annoying for kids
-- More project are coming.
+- Collection of Problems based on arsh-Goyal DSA-Sheet. 
+- #45 days challenge.
+- Fun and Enjoy . 
 
+## Sheet-Link
+- [DSA-SHEET](https://docs.google.com/spreadsheets/d/1r35qSXY6rSAonFbPEKB_KXUvpCIBbVGMp5001MaNb3c/edit#gid=0)
+- [video-link](https://www.youtube.com/watch?v=gNpZHvl095s)
