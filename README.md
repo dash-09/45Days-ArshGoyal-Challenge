@@ -22,3 +22,19 @@
 ## Sheet-Link
 - [DSA-SHEET](https://docs.google.com/spreadsheets/d/1r35qSXY6rSAonFbPEKB_KXUvpCIBbVGMp5001MaNb3c/edit#gid=0)
 - [video-link](https://www.youtube.com/watch?v=gNpZHvl095s)
+
+## my way to solve.
+- Arrays
+- Strings
+- Matrix problems
+- Mathematical Problem
+- Sorting and searching
+- LinkedList
+- Stack & Queues
+- Two pointer approach
+- Backtracking
+- Trees
+- DP
+- Greedy and Heaps
+- Graph
+- Segement Trees 
