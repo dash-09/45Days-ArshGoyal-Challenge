@@ -1,9 +1,9 @@
 ## All arrays problems are here from arsh goyal sheets. 
 - #45 days internship challenge.
 ## Track(dates)
-- Day-1 : 24 July > 4 Questions
-- Day-2 : 25 July > 4 Questions
-- Day-3 : 26 July > 4 Questions
+- Day-1 : 24 July > 4 Questions ✔️
+- Day-2 : 25 July > 4 Questions ✔️
+- Day-3 : 26 July > 4 Questions ❎ solved 2 question only 
 - Day-4 : 27 July > 4 Questions
 - Day-5 : 28 July > 4 Questions
 - Day-6 : 29 July > 4 Questions
