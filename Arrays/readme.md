@@ -7,5 +7,16 @@
 - Day-4 : 27 July > 4 Questions ❎ solved 1 question only . Went to college
 - Day-5 : 28 July > 4 Questions ✔️ solved 3 question. 
 - Day-6 : 29 July > 4 Questions ✔️ solved 2 question.
-- Day-7 : 30 July > 4 Questions ✔️ solved 2 question
+- Day-7 : 30 July > 4 Questions ✔️ solved 2 question.
+
+/*WEEK 1 dONE */
+
+- Day-8 : 31 July > 4 Questions ✔️ solved _ question.
+- Day-9 :  1 Aug > 4 Questions ✔️ solved _ question.
+- Day-10 : 2 Aug > 4 Questions ✔️ solved _ question.
+- Day-11 : 3 Aug > 4 Questions ✔️ solved _ question.
+- Day-12 : 4 Aug > 4 Questions ✔️ solved _ question.
+- Day-13 : 5 Aug > 4 Questions ✔️ solved _ question.
+- Day-14 : 6 Aug > 4 Questions ✔️ solved _ question.
+ 
 ## total array question 28  
