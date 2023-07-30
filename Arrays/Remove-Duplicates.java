@@ -1,4 +1,4 @@
-
+// in this question you have to tell basically how many duplicates are there in this question 
 class Solution {
     public int removeDuplicates(int[] nums) {
         if(nums.length==0){
