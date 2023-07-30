@@ -11,12 +11,12 @@
 
 /*WEEK 1 dONE */
 
-- Day-8 : 31 July > 4 Questions ✔️ solved _ question.
-- Day-9 :  1 Aug > 4 Questions ✔️ solved _ question.
-- Day-10 : 2 Aug > 4 Questions ✔️ solved _ question.
-- Day-11 : 3 Aug > 4 Questions ✔️ solved _ question.
-- Day-12 : 4 Aug > 4 Questions ✔️ solved _ question.
-- Day-13 : 5 Aug > 4 Questions ✔️ solved _ question.
-- Day-14 : 6 Aug > 4 Questions ✔️ solved _ question.
+- Day-8 : 31 July > 4 Questions 
+- Day-9 :  1 Aug > 4 Questions 
+- Day-10 : 2 Aug > 4 Questions 
+- Day-11 : 3 Aug > 4 Questions  
+- Day-12 : 4 Aug > 4 Questions  
+- Day-13 : 5 Aug > 4 Questions 
+- Day-14 : 6 Aug > 4 Questions  
  
 ## total array question 28  
