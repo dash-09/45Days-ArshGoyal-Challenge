@@ -12,6 +12,6 @@ class Solution {
       }
         }
         return i+1; 
-      // we have return i+1 , because it is said in function and in question also . how many element left after removing the duplicate elements   
+      // we have return i+1 , because it is said in function and in question also that how many element left after removing the duplicate elements   
     }
 }
