@@ -9,7 +9,7 @@
 - Day-6 : 29 July > 4 Questions ✔️ solved 2 question.
 - Day-7 : 30 July > 4 Questions ✔️ solved 2 question.
 
-/*WEEK 1 dONE */
+>>WEEK 1 dONE< 18 done <10 left>   
 
 - Day-8 : 31 July > 4 Questions 
 - Day-9 :  1 Aug > 4 Questions 
