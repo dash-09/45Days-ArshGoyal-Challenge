@@ -11,8 +11,8 @@
 
 >>WEEK 1 dONE< 18 done <10 left>   
 
-- Day-8 : 31 July > 4 Questions  ✔️ solved 1 question. :: did'nt revised at all
-- Day-9 :  1 Aug > 4 Questions 
+- Day-8 : 31 July > 4 Questions ✔️ solved 1 question. : did'nt revised at all
+- Day-9 :  1 Aug > 4 Questions  ✔️ solved 2 question. : Revised. 
 - Day-10 : 2 Aug > 4 Questions 
 - Day-11 : 3 Aug > 4 Questions  
 - Day-12 : 4 Aug > 4 Questions  
