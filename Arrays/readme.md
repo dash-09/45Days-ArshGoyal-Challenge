@@ -17,6 +17,7 @@
 - Day-11 : 3 Aug > 4 Questions DONE NOTHING : WASTED TIME ONLY
 - Day-12 : 4 Aug > 4 Questions DONE NOTHING : WASTED TIME ONLY
 - Day-13 : 5 Aug > 4 Questions DONE NOTHING : WASTED TIME ONLY
-- Day-14 : 6 Aug > 4 Questions  
+- Day-14 : 6 Aug > 4 Questions Revision : Done | solved 3 question ✔️
+- Day-14 : 7 Aug > 4 Questions Revision : 
  
-## total array question 28  
+## total array question 28 : 
