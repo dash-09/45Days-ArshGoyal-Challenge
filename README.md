@@ -24,7 +24,7 @@
 - [video-link](https://www.youtube.com/watch?v=gNpZHvl095s)
 
 ## my way to solve.
-- Arrays
+- Arrays : [Link](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Arrays)
 - Matrix problems
 - Two pointer Approach
 - Mathematical Problem
