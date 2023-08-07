@@ -25,15 +25,16 @@
 
 ## my way to solve.
 - Arrays
-- Strings
 - Matrix problems
+- Two pointer Approach
 - Mathematical Problem
 - Sorting and searching
 - LinkedList
-- Stack & Queues
-- Two pointer approach
-- Backtracking
 - Trees
+- Strings
+- Stack & Queues
+>Now here it is 
+- Backtracking
 - DP
 - Greedy and Heaps
 - Graph
