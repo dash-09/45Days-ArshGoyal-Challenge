@@ -18,6 +18,12 @@
 - Day-12 : 4 Aug > 4 Questions DONE NOTHING : WASTED TIME ONLY
 - Day-13 : 5 Aug > 4 Questions DONE NOTHING : WASTED TIME ONLY
 - Day-14 : 6 Aug > 4 Questions Revision : Done | solved 3 question ✔️
-- Day-14 : 7 Aug > 4 Questions Revision : 
+- Day-14 : 7 Aug > 4 Questions Revision : SOLVED 1 QUESTION ✔️
+
+
+
+
+
+-    LEFT 4 QUESTION : GOING TO DO MATRIX PROBLEMS SECTION FROM TOMMAROW : REVISION DONE  
  
-## total array question 28 : 
+## total array question 28 : solved 24 only . 
