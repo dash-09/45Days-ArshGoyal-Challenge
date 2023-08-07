@@ -33,9 +33,9 @@
 - Trees
 - Strings
 - Stack & Queues
->Now here it is 
 - Backtracking
-- DP
 - Greedy and Heaps
+>Now here it is 
+- DP
 - Graph
 - Segement Trees 
