@@ -1,4 +1,4 @@
-// moore's voting algorithm >> famous algo . 
+// moore's voting algorithm >> famous algo .  element will be more than N/2 times more than other elements.  
 
 class Solution {
     public int majorityElement(int[] nums) {
