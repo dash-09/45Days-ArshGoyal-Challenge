@@ -24,17 +24,17 @@
 - [video-link](https://www.youtube.com/watch?v=gNpZHvl095s)
 
 ## my way to solve.
-- Arrays : [Link](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Arrays)
-- Matrix problems
-- Two pointer Approach
-- Mathematical Problem
-- Sorting and searching
-- LinkedList
-- Trees
-- Strings
-- Stack & Queues
-- Backtracking
-- Greedy and Heaps
+- Arrays : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Arrays)
+- Matrix problems : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Matrix-Problems)
+- Two pointer Approach : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Two-Pointer-approach)
+- Mathematical Problem : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Mathematical-Problems)
+- Sorting and searching : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Searching-Sorting)
+- LinkedList : [Link](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/LinkedList)
+- Trees : [Link]()
+- Stack & Queues : [Link]()
+- Strings : [Link]()
+- Backtracking : [Link]()
+- Greedy and Heaps : [Link]()
 >Now here it is 
 - DP
 - Graph
