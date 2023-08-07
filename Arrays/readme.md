@@ -25,5 +25,5 @@
 
 
 >>< LEFT 4 QUESTION : GOING TO DO MATRIX PROBLEMS SECTION FROM TOMMAROW : REVISION DONE  >
- 
+ - i will do game of life question for sure. I am afraid of it idk why ?
 ## total array question 28 : solved 24 only . 
