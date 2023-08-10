@@ -1,4 +1,4 @@
-//  Link of problem : (https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1) 
+//  Link of problem : (https://leetcode.com/problems/surrounded-regions/) 
 //  Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’.
 /*
 Input: mat[M][N] =  {{'X', 'O', 'X', 'X', 'X', 'X'},
