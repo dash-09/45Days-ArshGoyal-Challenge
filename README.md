@@ -37,4 +37,4 @@
 
 - [@dash-09](https://www.github.com/dash-09)
  <br/> 
-:-: <h1>YOU ARE DOING GREAT</h1>
+  <h1 align = center>YOU ARE DOING GREAT</h1>
