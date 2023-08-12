@@ -1,5 +1,5 @@
 
-# 45 days challenge
+## 45 days challenge
 
 - This is the 45 days Arsh goyal challenge
 - Solve DSA problem on a daily basis for continous 45 to 60 days
@@ -9,7 +9,7 @@
 - [DSA-SHEET](https://docs.google.com/spreadsheets/d/1r35qSXY6rSAonFbPEKB_KXUvpCIBbVGMp5001MaNb3c/edit#gid=0)
 - [video-link](https://www.youtube.com/watch?v=gNpZHvl095s)
 
-## my way to solve.
+## The Path I am Following .
 - Arrays : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Arrays)
 - Matrix problems : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Matrix-Problems)
 - Two pointer Approach : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Two-Pointer-approach)
