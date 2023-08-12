@@ -15,12 +15,12 @@
 - Two pointer Approach : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Two-Pointer-approach)
 - Mathematical Problem : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Mathematical-Problems)
 - Sorting and searching : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Searching-Sorting)
-- LinkedList : [Link](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/LinkedList)
-- Trees : [Link]()
-- Stack & Queues : [Link]()
-- Strings : [Link]()
-- Backtracking : [Link]()
-- Greedy and Heaps : [Link]()
+- LinkedList : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/LinkedList)
+- Trees : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Binary-Tree)
+- Stack & Queues : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Stack-Queue)
+- Strings : [🔗 is here]()
+- Backtracking : [🔗 is here]()
+- Greedy and Heaps : [🔗 is here]()
 >Now here it is 
 - DP
 - Graph
