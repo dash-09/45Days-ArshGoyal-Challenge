@@ -18,10 +18,10 @@
 - LinkedList : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/LinkedList)
 - Trees : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Binary-Tree)
 - Stack & Queues : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Stack-Queue)
+- Strings : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Strings)
+- Backtracking : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Backtracking)
+- Greedy and Heaps : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Greedy-Heaps)
 > No Links
-- Strings : [🔗 is here]()
-- Backtracking : [🔗 is here]()
-- Greedy and Heaps : [🔗 is here]()
 >Now here it is 
 - DP
 - Graph
