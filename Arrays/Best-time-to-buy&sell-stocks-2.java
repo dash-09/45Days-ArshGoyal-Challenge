@@ -1,3 +1,5 @@
+<code>
+    
 // you can buy & sell more than 1 time in order to increase your profit . Thats is the difference both (Best-time-to-buy&sell-stocks- 1) & (Best-time-to-buy&sell-stocks-2) question .
 /*
 Input: prices = [7,1,5,3,6,4]
@@ -22,3 +24,4 @@ class Solution {
         return priceGain.stream().mapToInt(n->n).sum();
     }
 }
+</code>
