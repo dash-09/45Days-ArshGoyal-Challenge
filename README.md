@@ -5,7 +5,7 @@
 - Solve DSA problem on a daily basis for continous 45 to 60 days
 - single target to cracking the internship/job .
 - Java and Data Structure are used.
->> Video and Sheet Link : 
+>> Video and Sheet Link : SEE THESE LINKS
 - [DSA-SHEET Arsh](https://docs.google.com/spreadsheets/d/1r35qSXY6rSAonFbPEKB_KXUvpCIBbVGMp5001MaNb3c/edit#gid=0)
 - [video-link of particular challenge ](https://www.youtube.com/watch?v=gNpZHvl095s)
 
