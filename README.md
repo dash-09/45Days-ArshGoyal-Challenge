@@ -35,6 +35,6 @@
 - Fun and Enjoy . 
 ## Author
 
-- [@dash-09](https://www.github.com/dash-09)
+- [@dash-09 : Its me Bro ! Adarsh Shukla ](https://www.github.com/dash-09)
  <br/> 
   <h1 align = center>YOU ARE DOING GREAT</h1>
