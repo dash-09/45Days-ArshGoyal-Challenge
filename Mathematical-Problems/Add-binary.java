@@ -19,7 +19,7 @@ public class solution{
       if(k<b1 && b.charAt(b1-1-k)=='1'){
         y = 1;
       }
-      res = res + (x+y+carry)%2;
+      res =(x+y+carry)%2 + res;
       carry = (x+y+carry)/2; k++;
     } 
     return result;
