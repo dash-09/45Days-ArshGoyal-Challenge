@@ -12,8 +12,8 @@
 ## The Path I am Following .
 - Arrays : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Arrays) : 2 left 
 - Matrix problems : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Matrix-Problems) : 1 left
-- Two pointer Approach : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Two-Pointer-approach)
-- Mathematical Problem : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Mathematical-Problems)
+- Two pointer Approach : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Two-Pointer-approach) : 1 left
+- Mathematical Problem : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Mathematical-Problems) 
 - Sorting and searching : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Searching-Sorting)
 - LinkedList : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/LinkedList)
 - Trees : [🔗 is here](https://github.com/dash-09/45Days-ArshGoyal-Challenge/tree/main/Binary-Tree)
